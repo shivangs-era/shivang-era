@@ -7,7 +7,7 @@ I am Shivang, a Computer Science and Engineering undergraduate focused on founda
 
 🌱 **Learning:** Deep Learning fundamentals, mobile application architecture (Android), and advanced software engineering practices.
 
-🧰 **Core Stack:** C, Python, MySQL, Android Studio, Git.
+🧰 **Core Stack:** C, Python, MySQL, Android Studio, Git ,Linux.
 
 🎯 **Objective:** Build scalable, AI-driven products and contribute to innovative engineering environments.
 
